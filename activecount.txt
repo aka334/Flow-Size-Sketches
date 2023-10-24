@@ -1,0 +1,1 @@
+Final value of the active counter: 1001376
